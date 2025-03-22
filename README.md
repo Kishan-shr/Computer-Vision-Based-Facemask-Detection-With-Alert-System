@@ -1,5 +1,7 @@
 # Computer Vision-Based Facemask Detection with Alert System
- ![Design preview for the Computer Vision Based Facemask Detection With Alert System ]()
+ ![Design preview for the Computer Vision Based Facemask Detection With Alert System ](Computer-Vision-Based-Facemask-Detection-with-Alert-System/s2.PNG)
+ ![Design preview for the Computer Vision Based Facemask Detection With Alert System ](Computer-Vision-Based-Facemask-Detection-with-Alert-System/Test/Frame1.png)
+ ![Design preview for the Computer Vision Based Facemask Detection With Alert System ](Computer-Vision-Based-Facemask-Detection-with-Alert-System/Test/Frame4.png)
 
 ## 🚀 Overview
 This project is a real-time facemask detection system using computer vision. It utilizes deep learning techniques to detect whether a person is wearing a mask or not and triggers an alert system when a violation is detected.
@@ -60,7 +62,7 @@ Developed with ❤️ by KISHAN SHARMA
 linkedin : https://www.linkedin.com/in/kishanshr/
 
 ## 📷 Example Output
-![Example](https://raw.githubusercontent.com/Kishan-shr/Computer-Vision-Based-Facemask-Detection-With-Alert-System/main/example_output.png)
+![Example](https://raw.githubusercontent.com/Kishan-shr/Computer-Vision-Based-Facemask-Detection-With-Alert-System/main/Computer-Vision-Based-Facemask-Detection-with-Alert-System/Test/Frame7.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
